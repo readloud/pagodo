@@ -1,0 +1,18 @@
+intitle:"Struts problem report" intext:"Struts has detected an Unhandled"
+intitle:"Struts Problem Report" intext:"development mode is enabled."
+filetype:action
+filetype:do
+filetype:java
+filetype:out
+filetype:bat
+filetype:seam
+filetype:sh
+filetype:bson
+filetype:el
+filetype:pm
+inurl:login.action
+inurl:login.do
+inurl:login.java
+inurl:index.action
+inurl:index.do
+inurl:index.java
